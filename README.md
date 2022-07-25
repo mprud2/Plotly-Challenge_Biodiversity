@@ -7,3 +7,4 @@ A client is looking to analyze the biodiversity of bacteria found within the nav
 - VS Code
 - Web browser
 - Command-line interface
+- JavaScript and Plotly library
